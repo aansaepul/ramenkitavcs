@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec003333-c568-47be-97f4-dd65e0b51968" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="ec003333-c568-47be-97f4-dd65e0b51968" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -70,6 +67,7 @@
               <caret line="432" column="61" lean-forward="false" selection-start-line="432" selection-start-column="61" selection-end-line="432" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#15193#15201#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -713,6 +711,7 @@
           <caret line="432" column="61" lean-forward="false" selection-start-line="432" selection-start-column="61" selection-end-line="432" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#15193#15201#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -757,6 +756,7 @@
           <caret line="423" column="8" lean-forward="false" selection-start-line="423" selection-start-column="8" selection-end-line="423" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#15193#15201#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -901,6 +901,7 @@
           <caret line="432" column="61" lean-forward="false" selection-start-line="432" selection-start-column="61" selection-end-line="432" selection-end-column="61" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#15193#15201#0" expanded="true" />
           </folding>
         </state>
       </provider>
