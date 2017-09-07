@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ramenkitavcs.iml" filepath="$PROJECT_DIR$/.idea/modules/ramenkitavcs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ramenkitavcs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ramenkitavcs_main.iml" group="ramenkitavcs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ramenkitavcs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ramenkitavcs_test.iml" group="ramenkitavcs" />
+    </modules>
+  </component>
+</project>
